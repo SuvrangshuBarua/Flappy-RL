@@ -2,6 +2,8 @@
 A base implementation of the classic Flappy Bird game, trained in Unity using the `ml-agents` library.  
 The training is done using the **Proximal Policy Optimization (PPO)** technique as a reinforcement learning method.
 
+![Flappy](Recordings/gif_animation_002.gif)
+
 ## 🧠 How the AI Is Trained
 
 The Flappy Bird agent is trained using **reinforcement learning** with the **Unity ML-Agents Toolkit**, specifically using the **Proximal Policy Optimization (PPO)** algorithm.
